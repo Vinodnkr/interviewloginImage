@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interviewloginImage/static/css/main.f7feed00.chunk.css",
+    "main.js": "/interviewloginImage/static/js/main.90c9e7fc.chunk.js",
+    "main.js.map": "/interviewloginImage/static/js/main.90c9e7fc.chunk.js.map",
+    "runtime~main.js": "/interviewloginImage/static/js/runtime~main.8b627707.js",
+    "runtime~main.js.map": "/interviewloginImage/static/js/runtime~main.8b627707.js.map",
+    "static/js/2.138d10ec.chunk.js": "/interviewloginImage/static/js/2.138d10ec.chunk.js",
+    "static/js/2.138d10ec.chunk.js.map": "/interviewloginImage/static/js/2.138d10ec.chunk.js.map",
+    "index.html": "/interviewloginImage/index.html",
+    "precache-manifest.eda212c83aa9ca837cd29b901ae96041.js": "/interviewloginImage/precache-manifest.eda212c83aa9ca837cd29b901ae96041.js",
+    "service-worker.js": "/interviewloginImage/service-worker.js",
+    "static/css/main.f7feed00.chunk.css.map": "/interviewloginImage/static/css/main.f7feed00.chunk.css.map"
+  }
+}
