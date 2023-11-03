@@ -1,0 +1,39 @@
+/* PasswordReset.css */
+.password-reset {
+  width: 300px;
+  margin: 0 auto;
+  padding: 80px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.password-reset h2 {
+  text-align: center;
+}
+
+.password-reset input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.password-reset button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.password-reset button:hover {
+  background-color: #0056b3;
+}
+.homeLink {
+  margin-top: 20px;
+}
